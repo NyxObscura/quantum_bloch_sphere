@@ -1,8 +1,6 @@
 
 # Quantum Bloch Sphere Visualizer
 
-![Bloch Sphere Visualization](https://via.placeholder.com/800x400?text=Quantum+Bloch+Sphere+Visualization)
-
 An interactive 3D visualization tool for quantum states using the Bloch sphere representation, implemented in C++ with OpenGL.
 
 ## What is This?
@@ -27,7 +25,7 @@ Key Features:
 
 ### Installation
 ```bash
-git clone https://github.com/NyxObscura/quantum-bloch-sphere.git
+git clone https://github.com/NyxObscura/quantum_bloch_sphere.git
 cd quantum-bloch-sphere
 mkdir build && cd build
 cmake ..
